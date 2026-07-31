@@ -4,8 +4,8 @@
 %global crate varlink_generator
 
 Name:           rust-%{crate}
-Version:        9.0.0
-Release:        2%{?dist}
+Version:        13.0.0
+Release:        1%{?dist}
 Summary:        Rust code generator for the varlink protocol
 
 # Upstream license specification: MIT/Apache-2.0
